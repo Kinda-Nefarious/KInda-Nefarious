@@ -7,13 +7,18 @@
 
 <p align="left"> <a href="https://twitter.com/kindanefarious" target="blank"><img src="https://img.shields.io/twitter/follow/kindanefarious?logo=twitter&style=for-the-badge" alt="kindanefarious" /></a> </p>
 
+- 🌱 I’m currently learning **Terraform, Full stack development and Cloud**
+
+- 👨‍💻 All of my projects are available at [rufaronyakudya.com](rufaronyakudya.com)
+
 - 💬 Ask me about **Cloud, AI and Infrastructure as code**
 
-- 📫 You can reach me at **rufaronyakudya@gmail.com**
+- 📫 How to reach me **rufaronyakudya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kindanefarious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kindanefarious" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rufaro-nyakudya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rufaro-nyakudya" height="30" width="40" /></a>
 <a href="https://instagram.com/kinda.nefarious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kinda.nefarious" height="30" width="40" /></a>
 </p>
 
