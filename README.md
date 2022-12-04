@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Terraform, Full stack development and Cloud**
 
-- 👨‍💻 All of my projects are available at [rufaronyakudya.com](rufaronyakudya.com)
+- 👨‍💻 All of my projects and blog posts are available at [rufaronyakudya.com](rufaronyakudya.com)
 
 - 💬 Ask me about **Cloud, AI and Infrastructure as code**
 
