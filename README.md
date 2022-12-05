@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Cloud, AI and Infrastructure as code**
 
-- 📫 You can reach me **rufaronyakudya@gmail.com**
+- 📫 You can reach me at **rufaronyakudya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
