@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Rufaro Nyakudya</h1>
+<h1 align="center">Hello 👋, I'm Rufaro D. Nyakudya</h1>
 <h3 align="center">A Cloud Engineer with a passion for Automation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kinda-nefarious&label=Profile%20views&color=0e75b6&style=flat" alt="kinda-nefarious" /> </p>
