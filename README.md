@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Terraform, DevOps and Cloud**
 
-- 👨‍💻 All of my projects and blog posts are available at [rufaronyakudya.com](rufaronyakudya.com)
+- 👨‍💻 All of my projects and blog posts are available at [rufaronyakudya.com](https://www.rufaronyakudya.com/)
 
 - 💬 Ask me about **Cloud, AI and Infrastructure as code**
 
